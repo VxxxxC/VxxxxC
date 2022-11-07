@@ -2,6 +2,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vxxxxc&label=Profile%20views&color=0e75b6&style=flat" alt="vxxxxc" /> </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 06 November 2022 - To: 07 November 2022
+
+Total Time: 2 mins
+
+Lua        1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.86 %
+Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.14 %
+```
+
 <!--END_SECTION:waka-->
 
 <details>
