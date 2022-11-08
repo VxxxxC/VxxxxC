@@ -3,8 +3,7 @@
 
 ![Header](https://user-images.githubusercontent.com/80626616/200523495-4dcc969b-5109-4b8e-a42f-17910bf923ba.gif)
 
-
-<h2>
+<h5>
 <details>
   <summary>⚡️Git Stats:</summary>
   
@@ -17,10 +16,10 @@
 [![VxxxxC's github activity graph](https://activity-graph.herokuapp.com/graph?username=vxxxxc&theme=synthwave-84)](https://github.com/vxxxxc/github-readme-activity-graph)
   
 </details>
-</h2>
+</h5>
 
 
-<h2><details>
+<h5><details>
   <summary>🔥Langs Stats:</summary>
   <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxxxxc&layout=compact&theme=onedark" alt="Steven Cheng 's Top Langs">
@@ -36,7 +35,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 </details>
-  </h2>
+  </h5>
   
 <p>
 
