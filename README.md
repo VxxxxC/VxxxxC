@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vxxxxc&label=Profile%20views&color=0e75b6&style=flat" alt="vxxxxc" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/f836a67a-5340-4599-afcf-2de2bc9f3925/project/b4e0bd12-9616-4bfc-91c7-2387b2f00448.svg)](https://wakatime.com/badge/user/f836a67a-5340-4599-afcf-2de2bc9f3925/project/b4e0bd12-9616-4bfc-91c7-2387b2f00448)
 
 <h2>
 <details>
@@ -29,7 +30,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 November 2022 - To: 07 November 2022
+
+Total Time: 2 mins
+
+Lua        1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.86 %
+Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.14 %
 ```
 
 <!--END_SECTION:waka-->
