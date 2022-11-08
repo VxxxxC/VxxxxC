@@ -28,12 +28,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 07 November 2022
-
-Total Time: 2 mins
-
-Lua        1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.86 %
-Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
