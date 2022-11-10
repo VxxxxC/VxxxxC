@@ -28,10 +28,11 @@
 name: Waka Readme
 
 on:
+  push:
+    branches: [main]
   schedule:
-    # Runs at 12am IST
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' # runs at every hour
+  workflow_dispatch: # for manual workflow trigger
 jobs:
   update-readme:
     name: Update Readme with Metrics
