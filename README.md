@@ -35,8 +35,6 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 10 November 2022
-
 Total Time: 2 hrs 58 mins
 
 TypeScript   1 hr 52 mins    ███████████████▓░░░░░░░░░   63.00 %
