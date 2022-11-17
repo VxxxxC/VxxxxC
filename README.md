@@ -38,20 +38,6 @@
   alt="Avinal WakaTime Activity"
 />
 
-  <!--START_SECTION:waka-->
-
-```text
-Total Time: 30 hrs 2 mins
-
-TypeScript   23 hrs 42 mins  ███████████████████▓░░░░░   78.93 %
-JSON         2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Lua          1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-YAML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-conf         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-```
-
-<!--END_SECTION:waka-->
 </details>
   </h3>
   
