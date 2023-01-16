@@ -18,7 +18,8 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vxxxxc&theme=dracula&count_private=true" alt="vxxxxc" /></p>
 
   
-[![VxxxxC's github activity graph](https://activity-graph.herokuapp.com/graph?username=vxxxxc&theme=synthwave-84)](https://github.com/vxxxxc/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
   
 </details>
 </h3>
