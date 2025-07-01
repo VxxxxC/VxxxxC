@@ -11,11 +11,6 @@
 <h3>
 <details>
   <summary>⚡️Git Stats:</summary>
-  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vxxxxc&count_private=true&show_icons=true&theme=onedark&locale=en" alt="vxxxxc" /></p>
-  
-  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vxxxxc&theme=dracula&count_private=true" alt="vxxxxc" /></p>
 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
